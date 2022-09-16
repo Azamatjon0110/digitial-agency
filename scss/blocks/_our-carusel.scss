@@ -30,6 +30,19 @@
   background-color: #0cbe6426;
 }
 
+.text-danger{
+  background-color:  #dc00001a;;
+}
+
+.text-fiolet{
+  color: #B000DC;
+  background-color: #b000dc1c;
+}
+
+.text-primary{
+  background-color: #0058dc17;
+}
+
 .carusel-title{
   margin-top: 0;
   margin-bottom: 14px;
@@ -113,6 +126,7 @@
 @media only screen and (min-width:900px) {
 
   .our-carusel{
+    padding: 0;
     padding-top: 69px;
     padding-bottom: 100px;
   }
